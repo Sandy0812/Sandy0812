@@ -1,45 +1,44 @@
 # Hi, Shreyas Sandeep N here!
 
 I'm a **MSc-qualified Cybersecurity professional** with hands-on SOC experience, a passion for threat analysis, and a strong background in enterprise IT support. I focus on bridging the gap between defensive operations, cloud security, and automation.
-
 ---
 
 ### Cybersecurity Focus
-* **SIEM Operations:** Alert triage, log analysis, and event correlation using Splunk.
-* **Threat & Malware Analysis:** Mapping adversary behaviors to the **MITRE ATT&CK®** framework and performing introductory static analysis using **Ghidra**.
-* **Endpoint Detection & Response:** Monitoring and reviewing telemetry using **CrowdStrike Falcon** fundamentals.
+* **SIEM & Monitoring:** Alert triage, log analysis, and event correlation using Splunk and AWS CloudWatch.
+* **Threat & Traffic Analysis:** Analyzing network traffic and application behavior using Wireshark, Burp Suite, and Nmap.
+* **Incident Response:** Managing user accounts in Active Directory, responding to access anomalies, and adhering to strict SLA metrics.
 
 ---
 
-### Technical Skills
-* **Security Tools:** Splunk, CrowdStrike Falcon, Ghidra, Burp Suite, Wireshark, Cisco Packet Tracer.
-* **Core Networking:** TCP/IP, DNS, HTTP/HTTPS, OSI Model, VLANs, 802.1Q Trunking, and STP.
-* **Scripting & OS:** Python, PowerShell, SQL (Fundamentals) | Windows & Linux.
+### Networking & Infrastructure Focus
+* **Core Protocols & Enterprise Switching:** Practical experience with TCP/IP, OSI Model, DHCP, DNS, VLAN segmentation, 802.1Q Trunking, and Spanning Tree Protocol (STP).
+* **Troubleshooting:** Diagnosing enterprise faults including VPN configurations, split-tunneling, RDP session blocks, and IP conflicts.
+* **Cloud Networking (AWS):** Designing network topologies within AWS VPC using subnets, route tables, security groups, and Network ACLs.
 
 ---
 
-### Cloud Security
-* **AWS Infrastructure:** Hands-on experience deploying and managing EC2, S3, IAM, and CloudWatch.
-* **Access Control:** Configuring secure IAM policies and security groups to enforce the principle of least privilege.
+### Technical Skills & Labs
+* **Simulation Tools:** Cisco Packet Tracer — LAN/WAN setups, gateway routing, and switch port diagnostics.
+* **Operating Systems:** Windows & Linux (CentOS, Ubuntu).
+* **Scripting & Languages:** Python, PowerShell, C, Java, SQL (Fundamentals).
 
 ---
 
-### AI & Automation
-* **PhishShield:** Developed an AI-assisted conversational phishing detection bot using **Microsoft Copilot Studio** during a company innovation competition, implementing a three-tier risk classification system.
+### Academic & Lab Projects
+* **IoT-Based Smart Parking System (MSc Project):** Developed a Python-based IoT system with ThingsBoard for real-time data transmission deployed securely on AWS cloud infrastructure.
+* **PhishShield Bot:** Designed an AI-assisted conversational phishing detection bot using Microsoft Copilot Studio with a three-tier risk classification system.
+* **AWS Cloud Network Lab:** Built an enterprise network topology from scratch using a custom AWS VPC with strict IAM least-privilege policies.
 
 ---
 
-### Labs & Projects
-* **SOC Simulation (TryHackMe):** Practiced log analysis, network forensics, OSINT workflows, and incident tracking across phishing and malware scenarios.
-* **CAPTCHA Security Study (MSc Project):** Designed a Flask-based web application to analyze bot mitigation and defensive strategies against automated web attacks.
-
----
-
-### Currently Learning & Certifications
+### Learning & Certifications
 * **MSc Advanced Computer Science** | Cardiff University
+* **Cisco Networking Academy:** Active learner practicing laboratory network setups on Cisco Packet Tracer.
 * **IBM Cybersecurity Analyst** Professional Certificate
 * **ISC2 Certified in Cybersecurity (CC)** | *Preparation in progress*
 * Active practitioner on **TryHackMe** and **Hack The Box**
+
+ **Future Milestones:** Mapping out core study objectives for the **Cisco Certified Network Associate (CCNA)**.
 
 ---
 
