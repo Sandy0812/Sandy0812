@@ -1,4 +1,4 @@
-# Hi, Shreyas Sandeep N!
+# Hi, Shreyas Sandeep N here!
 
 I'm a **MSc-qualified Cybersecurity professional** with hands-on SOC experience, a passion for threat analysis, and a strong background in enterprise IT support. I focus on bridging the gap between defensive operations, cloud security, and automation.
 
